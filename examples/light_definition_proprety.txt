@@ -1,0 +1,4 @@
+&exemplu pentru schimbarea proprietatilor luminii, unde 30 este numarul luminii in lista de lumini&
+
+#light %LuminaAlbastra
+30 !culoare = 'rosu'

@@ -1,0 +1,17 @@
+&exemplu pentru pentru repetarea adaugarii luminilor&
+
+$repeat(6){
+  	#light %LuminaRosie
+	%LuminaRosie => @createLight()
+}
+
+@createLight()
+{
+ "color": "green"
+ "lightType": "spotlight"
+  "x": 90
+ "y": 90
+ "z": 90
+ "lightIntensity": 50
+ "power": "on"
+}

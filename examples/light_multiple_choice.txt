@@ -1,0 +1,7 @@
+&exemplu pentru utilizarea multipla&
+
+#light %lightName => @createLight()  
+0 !color = "green"  
+0 !x = 180  
+0 !y = 220  
+0 !y = 21

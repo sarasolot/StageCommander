@@ -1,0 +1,14 @@
+&exemplu de declaratie de lumina cu atribuire&
+
+#light lightName => @createLight()
+
+@createLight()
+{
+ "color": "green"
+ "lightType": "spotlight"
+  "x": 90
+ "y": 90
+ "z": 90
+ "lightIntensity": 50
+ "power": "on"
+}

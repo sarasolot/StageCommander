@@ -1,0 +1,16 @@
+&exemplu pentru repetarea unei lumini cat timp este adevarat&
+
+$repeatWhile("true"){
+ 	#light Laser => @createLight()
+}
+
+@createLight()
+{
+ "color": "green"
+ "lightType": "spotlight"
+  "x": 90
+ "y": 90
+ "z": 90
+ "lightIntensity": 50
+ "power": "on"
+}
